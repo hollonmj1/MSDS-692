@@ -20,8 +20,9 @@ Geographical Analysis: Compared states and territories to identify economic disp
 Trend Analysis: Explored how key indicators evolved between 2020 and 2022, including post-pandemic recovery.
 
 Technologies Used
+Python Census to make API request easier to implement
 SQL (MySQL - run through a python interface using MySQL Connector) for data storage and querying.
-Python (Pandas, Plotly, Dash, Matplotlib) for data analysis and visualization.
+Python (Pandas, Plotly, Dash, Matplotlib ) for data analysis and visualization.
 Jupyter Notebook for interactive exploration.
 GitHub for version control and collaboration.
 
